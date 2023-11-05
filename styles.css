@@ -110,7 +110,7 @@ h1 {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin: 0 auto;
+  margin: 0;
   max-width: 1161px;
 }
 
@@ -120,7 +120,6 @@ h1 {
   font-weight: 700;
   color: white;
   text-decoration: none;
-  margin: 0;
 }
 
 .footer__link {
