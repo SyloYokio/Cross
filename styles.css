@@ -123,11 +123,6 @@ h1 {
 
 .footer__link {
   display: inline;
-  margin: 0;
-}
-
-.footer__links {
-  margin: 0;
 }
 
 .footer-text {
@@ -151,6 +146,7 @@ h1 {
   font-weight: 700;
   color: inherit;
   text-decoration: none;
+  margin: 0;
 }
 
 
